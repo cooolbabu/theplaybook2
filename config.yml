@@ -1,4 +1,5 @@
-baseURL: "http://theplaybook.dev/"
+#baseURL: "http://theplaybook.dev/"
+baseURL: "https://github.com/cooolbabu/theplaybook2/"
 languageCode: en-us
 title: theplaybook
 theme: PaperMod
